@@ -1,4 +1,7 @@
 # RO3_ProgramKomnum_20.py
+# Muhammad Alfaraldi Raihan
+# NRP : 5053241043
+
 ## 🧮 Newton-Raphson Modifikasi (Python)
 
 Program ini menyelesaikan akar persamaan nonlinear menggunakan **Metode Newton-Raphson Modifikasi**. Pendekatan ini digunakan untuk mencari akar dari fungsi:
